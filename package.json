@@ -2,7 +2,7 @@
   "name": "theme-flux",
   "main": "./lib/theme-flux",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "Switches your theme based on the time of the day.",
   "keywords": [],
   "repository": "https://github.com/as-cii/theme-flux",
   "license": "MIT",
