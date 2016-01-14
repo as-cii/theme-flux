@@ -1,7 +1,7 @@
 {
   "name": "theme-flux",
   "main": "./lib/theme-flux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Switches your theme based on the time of the day.",
   "keywords": [],
   "repository": "https://github.com/as-cii/theme-flux",
