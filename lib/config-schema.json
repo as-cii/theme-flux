@@ -1,0 +1,18 @@
+{
+  "startOfDay": {
+    "title": "Start of the day (0 - 23)",
+    "type": "integer",
+    "default": 7,
+    "minium": 0,
+    "maximum": 23,
+    "order": 1
+  },
+  "endOfDay": {
+    "title": "End of the day (0 - 23)",
+    "type": "integer",
+    "default": 17,
+    "minium": 0,
+    "maximum": 23,
+    "order": 2
+  }
+}
