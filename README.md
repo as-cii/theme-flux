@@ -1,4 +1,4 @@
-# Flux Theme package
+# Theme Flux Solar
 
 Switches your theme based on your location and the position of the sun.
 
