@@ -1,4 +1,4 @@
-# Theme Flux Solar
+# Theme Flux 
 
 Switches your theme based on your location and the position of the sun.
 
