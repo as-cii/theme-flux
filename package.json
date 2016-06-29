@@ -1,7 +1,7 @@
 {
   "name": "theme-flux-solar",
   "main": "./lib/theme-flux-solar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Switches your theme based on your location and the position of the sun.",
   "keywords": [],
   "repository": "https://github.com/qwtel/theme-flux-solar",
